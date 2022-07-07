@@ -1,0 +1,238 @@
+[
+   {
+      "natid":"U1_0$$",
+      "relief": "2320.00",
+      "Age":"17",
+      "Gender":"M",
+      "variable":0,
+      "Bonus":0
+   },
+   {
+      "natid":"U2_0$$",
+      "relief": "1965.00",
+      "Age":"18",
+      "Gender":"M",
+      "variable":1,
+      "Bonus":0
+   },
+   {
+      "natid":"U3_0$$",
+      "relief": "1740.00",
+      "Age":"19",
+      "Gender":"M",
+      "variable":1,
+      "Bonus":0
+   },
+   {
+      "natid":"U4_0$$",
+      "relief": "2965.00",
+      "Age":"34",
+      "Gender":"M",
+      "variable":1,
+      "Bonus":0
+   },
+   {
+      "natid":"U5_0$$",
+      "relief": "2776.00",
+      "Age":"35",
+      "Gender":"M",
+      "variable":0.8,
+      "Bonus":0
+   },
+   {
+      "natid":"U6_0$$",
+      "relief": "1976.00",
+      "Age":"36",
+      "Gender":"M", 
+      "variable":0.8,
+      "Bonus":0
+   },
+   {
+      "natid":"U7_0$$",
+      "relief": "2128.00",
+      "Age":"49",
+      "Gender":"M",
+      "variable":0.8,
+      "Bonus":0
+   },
+   {
+      "natid":"U8_0$$",
+      "relief": "1285.00",
+      "Age":"50",
+      "Gender":"M",
+      "variable":0.5,
+      "Bonus":0
+   },
+   {
+      "natid":"U9_0$$",
+      "relief": "1330.00",
+      "Age":"51",
+      "Gender":"M",
+      "variable":0.5,
+      "Bonus":0
+   },
+   {
+      "natid":"U10_$$$",
+      "relief": "2680.00",
+      "Age":"74",
+      "Gender":"M",
+      "variable":0.5,
+      "Bonus":0
+   },
+   {
+      "natid":"U11_$$$",
+      "relief": "976.00",
+      "Age":"75",
+      "Gender":"M",
+      "variable":0.367,
+      "Bonus":0
+   },
+   {
+      "natid":"U12_$$$",
+      "relief": "133.00",
+      "Age":"76",
+      "Gender":"M",
+      "variable":0.05,
+      "Bonus":0
+   },
+   {
+      "natid":"U13_$$$",
+      "relief": "500.00",
+      "Age":"17",
+      "Gender":"F",
+      "variable":0,
+      "Bonus":500
+   },
+   {
+      "natid":"U14_$$$",
+      "relief": "1800.00",
+      "Age":"18",
+      "Gender":"F",
+      "variable":1,
+      "Bonus":500
+   },
+   {
+      "natid":"U15_$$$",
+      "relief": "2100.00",
+      "Age":"19",
+      "Gender":"F",
+      "variable":1,
+      "Bonus":500
+   },
+   {
+      "natid":"U16_$$$",
+      "relief": "2472.00",
+      "Age":"34",
+      "Gender":"F",
+      "variable":1,
+      "Bonus":500
+   },
+   {
+      "natid":"U17_$$$",
+      "relief": "3276.00",
+      "Age":"35",
+      "Gender":"F",
+      "variable":0.8,
+      "Bonus":500
+   },
+   {
+      "natid":"U18_$$$",
+      "relief": "1845.00",
+      "Age":"36",
+      "Gender":"F",
+      "variable":0.8,
+      "Bonus":500
+   },
+   {
+      "natid":"U19_$$$",
+      "relief": "2205.00",
+      "Age":"49",
+      "Gender":"F",
+      "variable":0.8,
+      "Bonus":500
+   },
+   {
+      "natid":"U20_$$$",
+      "relief": "2490.00",
+      "Age":"50",
+      "Gender":"F",
+      "variable":0.5,
+      "Bonus":500
+   },
+   {
+      "natid":"U21_$$$",
+      "relief": "2140.00",
+      "Age":"51",
+      "Gender":"F",
+      "variable":0.5,
+      "Bonus":500
+   },
+   {
+      "natid":"U22_$$$",
+      "relief": "1825",
+      "Age":"74",
+      "Gender":"F",
+      "variable":0.5,
+      "Bonus":500
+   },
+   {
+      "natid":"U23_$$$",
+      "relief": "2680.00",
+      "Age":"75",
+      "Gender":"F",
+      "variable":0.367,
+      "Bonus":500
+   },
+   {
+      "natid":"U24_$$$",
+      "relief": "773.00",
+      "Age":"76",
+      "Gender":"F",
+      "variable":0.05,
+      "Bonus":500
+   },
+    {
+      "natid":"U25_$$$",
+      "relief": "981.00",
+      "Age":"18",
+      "Gender":"M",
+      "variable":1,
+      "Bonus":0
+   },
+   {
+      "natid":"U26_$$$",
+      "relief": "51.00",
+      "Age":"18",
+      "Gender":"M",
+      "variable":1,
+      "Bonus":0
+   },
+      {"natid":"U27_$$$",
+      "relief": "50.00",
+      "Age":"18",
+      "Gender":"M",
+      "variable":1,
+      "Bonus":0
+   },
+     {"natid":"U28_$$$",
+      "relief": "50.00",
+      "Age":"18",
+      "Gender":"M",
+      "variable":1,
+      "Bonus":0
+   },
+    {"natid":"U29_$$$",
+      "relief": "1965.00",
+      "Age":"18",
+      "Gender":"M",
+      "variable":1,
+      "Bonus":0
+   },
+   {"natid":"U30_$$$",
+      "relief": "979.00",
+      "Age":"18",
+      "Gender":"M",
+      "variable":1,
+      "Bonus":0
+   }
+]

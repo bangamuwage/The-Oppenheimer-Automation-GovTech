@@ -1,0 +1,410 @@
+2022-07-05 15:39:35 ERROR APIServicesBase:56 - java.net.MalformedURLException: no protocol: "http://localhost:8080/";
+2022-07-05 15:42:14 ERROR APIServicesBase:56 - java.net.MalformedURLException: no protocol: "http://localhost:8080/";
+2022-07-05 15:47:49 ERROR APIServicesBase:56 - java.lang.IllegalArgumentException: baseURI cannot be null
+2022-07-05 16:55:33 INFO  APIServicesBase:78 - {"birthday":"04041982","gender":"M","natid":"0001","name":"testUser1","tax":"25","salary":"2500"}
+2022-07-05 16:55:33 INFO  APIServicesBase:79 - correlation-id:null
+2022-07-05 16:55:34 INFO  UserStory3:30 - singleUserRecordCreationRequest was Successful
+2022-07-05 17:02:14 INFO  APIServicesBase:78 - {"birthday":"04041982","gender":"M","natid":"0001","name":"testUser1","tax":"25","salary":"2500"}
+2022-07-05 17:02:14 ERROR APIServicesBase:94 - java.lang.NullPointerException
+2022-07-05 17:02:32 INFO  APIServicesBase:78 - {"birthday":"04041982","gender":"M","natid":"0001","name":"testUser1","tax":"25","salary":"2500"}
+2022-07-05 17:02:32 ERROR APIServicesBase:94 - java.lang.NullPointerException
+2022-07-05 17:02:50 INFO  APIServicesBase:78 - {"birthday":"04041982","gender":"M","natid":"0001","name":"testUser1","tax":"25","salary":"2500"}
+2022-07-05 17:02:50 INFO  APIServicesBase:79 - correlation-id:null
+2022-07-05 17:02:51 INFO  UserStory3:30 - singleUserRecordCreationRequest was Successful
+2022-07-05 18:46:37 INFO  APIServicesBase:457 - correlation-id:null
+2022-07-05 18:46:38 INFO  UserStory3:45 - singleUserRecordCreationRequest was Successful
+2022-07-05 20:04:15 INFO  APIServicesBase:78 - {"birthday":"04041982","gender":"M","natid":"0001","name":"testUser1","tax":"25","salary":"2500"}
+2022-07-05 20:04:15 INFO  APIServicesBase:79 - correlation-id:null
+2022-07-05 20:04:16 INFO  UserStory3:31 - singleUserRecordCreationRequest was Successful
+2022-07-05 20:04:23 INFO  APIServicesBase:457 - correlation-id:null
+2022-07-05 20:04:24 INFO  UserStory3:45 - singleUserRecordCreationRequest was Successful
+2022-07-05 20:08:15 INFO  APIServicesBase:457 - correlation-id:null
+2022-07-05 20:08:16 INFO  UserStory3:45 - singleUserRecordCreationRequest was Successful
+2022-07-05 20:08:31 INFO  APIServicesBase:78 - {"birthday":"04041982","gender":"M","natid":"0001","name":"testUser1","tax":"25","salary":"2500"}
+2022-07-05 20:08:31 INFO  APIServicesBase:79 - correlation-id:null
+2022-07-05 20:08:32 INFO  UserStory3:31 - singleUserRecordCreationRequest was Successful
+2022-07-05 22:44:02 INFO  UserStory3:24 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-05 22:44:02 INFO  TestBase:133 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-05 22:44:04 INFO  TestBase:141 - ## Fail | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-05 22:44:04 INFO  UserStory3:30 - ## Fail | testSetUp ##apiTest.UserStory3
+2022-07-05 22:46:37 INFO  UserStory3:24 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-05 22:46:37 INFO  TestBase:133 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-05 22:46:42 INFO  UserStory3:30 - ## Fail | testSetUp ##apiTest.UserStory3
+2022-07-05 22:49:31 INFO  UserStory3:24 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-05 22:49:31 INFO  TestBase:133 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-05 22:49:35 INFO  UserStory3:30 - ## Fail | testSetUp ##apiTest.UserStory3
+2022-07-05 22:50:54 INFO  UserStory3:24 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-05 22:50:54 INFO  TestBase:133 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-05 22:50:58 INFO  UserStory3:30 - ## Fail | testSetUp ##apiTest.UserStory3
+2022-07-05 22:56:36 INFO  UserStory3:24 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-05 22:56:36 INFO  TestBase:133 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-05 22:56:41 INFO  UserStory3:30 - ## Fail | testSetUp ##apiTest.UserStory3
+2022-07-05 22:58:14 INFO  UserStory3:24 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-05 22:58:18 INFO  TestBase:133 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-05 23:01:08 INFO  UserStory3:24 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-05 23:01:15 INFO  UserStory3:30 - ## Fail | testSetUp ##apiTest.UserStory3
+2022-07-05 23:01:25 INFO  UserStory3:24 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-05 23:01:28 INFO  TestBase:133 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-05 23:03:23 INFO  UserStory3:24 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-05 23:03:24 INFO  UserStory3:24 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-05 23:03:35 INFO  UserStory3:30 - ## Fail | testSetUp ##apiTest.UserStory3
+2022-07-05 23:04:42 INFO  UserStory3:24 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-05 23:04:42 INFO  TestBase:133 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-05 23:05:50 INFO  UserStory3:30 - ## Fail | testSetUp ##apiTest.UserStory3
+2022-07-05 23:10:20 INFO  UserStory3:27 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-05 23:10:20 INFO  TestBase:133 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-05 23:10:36 INFO  UserStory3:36 - ## Start | clickAddPearsonClipLink ##apiTest.UserStory3
+2022-07-05 23:10:39 INFO  UserStory3:39 - ## Fail | clickAddPearsonClipLink ##apiTest.UserStory3
+2022-07-05 23:10:57 INFO  UserStory3:48 - ## Fail | testSetUp ##apiTest.UserStory3
+2022-07-05 23:11:45 INFO  UserStory3:27 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-05 23:11:45 INFO  TestBase:133 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-05 23:12:09 INFO  UserStory3:36 - ## Start | clickAddPearsonClipLink ##apiTest.UserStory3
+2022-07-05 23:12:32 INFO  UserStory3:39 - ## Fail | clickAddPearsonClipLink ##apiTest.UserStory3
+2022-07-05 23:12:32 INFO  UserStory3:48 - ## Fail | testSetUp ##apiTest.UserStory3
+2022-07-05 23:16:55 INFO  UserStory3:27 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-05 23:16:55 INFO  TestBase:133 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-05 23:17:05 INFO  UserStory3:48 - ## Fail | testSetUp ##apiTest.UserStory3
+2022-07-05 23:19:19 INFO  UserStory3:27 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-05 23:19:19 INFO  TestBase:133 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-05 23:19:32 INFO  UserStory3:36 - ## Start | clickAddPearsonClipLink ##apiTest.UserStory3
+2022-07-05 23:19:46 INFO  UserStory3:46 - ## Fail | testSetup ##apiTest.UserStory3
+2022-07-05 23:19:56 INFO  UserStory3:55 - ## Start | uploadCSVFile ##apiTest.UserStory3
+2022-07-05 23:19:56 INFO  UserStory3:58 - ## Fail | uploadCSVFile ##apiTest.UserStory3
+2022-07-05 23:19:56 INFO  TestBase:151 - ## Start | quitDriver() ## apiTest.UserStory3
+2022-07-05 23:29:28 INFO  UserStory3:27 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-05 23:29:28 INFO  TestBase:133 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-05 23:29:34 INFO  UserStory3:36 - ## Start | clickAddPearsonClipLink ##apiTest.UserStory3
+2022-07-05 23:29:34 INFO  UserStory3:42 - ## Fail | testSetup ##apiTest.UserStory3
+2022-07-05 23:29:34 INFO  TestBase:151 - ## Start | quitDriver() ## apiTest.UserStory3
+2022-07-05 23:29:56 INFO  UserStory3:27 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-05 23:30:53 INFO  TestBase:133 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-05 23:31:15 INFO  UserStory3:36 - ## Start | clickAddPearsonClipLink ##apiTest.UserStory3
+2022-07-05 23:31:21 INFO  UserStory3:42 - ## Fail | testSetup ##apiTest.UserStory3
+2022-07-05 23:31:49 INFO  TestBase:151 - ## Start | quitDriver() ## apiTest.UserStory3
+2022-07-05 23:33:00 INFO  UserStory3:27 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-05 23:33:05 INFO  TestBase:133 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-05 23:33:31 INFO  UserStory3:36 - ## Start | clickAddPearsonClipLink ##apiTest.UserStory3
+2022-07-05 23:33:38 INFO  UserStory3:42 - ## Fail | testSetup ##apiTest.UserStory3
+2022-07-05 23:33:43 INFO  TestBase:151 - ## Start | quitDriver() ## apiTest.UserStory3
+2022-07-05 23:34:35 INFO  UserStory3:27 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-05 23:34:43 INFO  TestBase:133 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-05 23:35:18 INFO  UserStory3:36 - ## Start | clickAddPearsonClipLink ##apiTest.UserStory3
+2022-07-05 23:35:47 INFO  UserStory3:42 - ## Fail | testSetup ##apiTest.UserStory3
+2022-07-05 23:37:16 INFO  UserStory3:27 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-05 23:37:16 INFO  TestBase:133 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-05 23:37:19 INFO  UserStory3:36 - ## Start | clickAddPearsonClipLink ##apiTest.UserStory3
+2022-07-05 23:37:19 INFO  UserStory3:42 - ## Fail | testSetup ##apiTest.UserStory3
+2022-07-05 23:37:19 INFO  TestBase:151 - ## Start | quitDriver() ## apiTest.UserStory3
+2022-07-05 23:37:51 INFO  UserStory3:27 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-05 23:37:51 INFO  TestBase:133 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-05 23:37:53 INFO  UserStory3:36 - ## Start | clickAddPearsonClipLink ##apiTest.UserStory3
+2022-07-05 23:37:53 INFO  UserStory3:42 - ## Fail | testSetup ##apiTest.UserStory3
+2022-07-05 23:37:53 INFO  TestBase:151 - ## Start | quitDriver() ## apiTest.UserStory3
+2022-07-05 23:38:06 INFO  UserStory3:27 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-05 23:38:15 INFO  TestBase:133 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-05 23:38:56 INFO  UserStory3:36 - ## Start | clickAddPearsonClipLink ##apiTest.UserStory3
+2022-07-05 23:40:28 INFO  UserStory3:27 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-05 23:40:46 INFO  TestBase:133 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-05 23:41:10 INFO  UserStory3:36 - ## Start | clickAddPearsonClipLink ##apiTest.UserStory3
+2022-07-06 00:14:25 INFO  UserStory3:51 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-06 00:14:25 INFO  TestBase:133 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-06 00:14:27 INFO  UserStory3:60 - ## Fail | testSetUp ##apiTest.UserStory3
+2022-07-06 00:14:28 INFO  TestBase:151 - ## Start | quitDriver() ## apiTest.UserStory3
+2022-07-06 00:22:38 INFO  UserStory3:51 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-06 00:22:43 INFO  TestBase:133 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-06 00:24:42 INFO  UserStory3:60 - ## Fail | testSetUp ##apiTest.UserStory3
+2022-07-06 00:24:47 INFO  TestBase:151 - ## Start | quitDriver() ## apiTest.UserStory3
+2022-07-06 00:32:25 INFO  UserStory3:52 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-06 00:32:25 INFO  TestBase:149 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-06 00:32:31 INFO  UserStory3:61 - ## Fail | testSetUp ##apiTest.UserStory3
+2022-07-06 00:32:31 INFO  TestBase:166 - ## Start | quitDriver() ## apiTest.UserStory3
+2022-07-06 00:35:56 INFO  UserStory3:53 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-06 00:36:11 INFO  UserStory3:62 - ## Fail | testSetUp ##apiTest.UserStory3
+2022-07-06 00:36:15 INFO  TestBase:166 - ## Start | quitDriver() ## apiTest.UserStory3
+2022-07-06 00:50:40 INFO  UserStory3:53 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-06 00:50:40 INFO  TestBase:149 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-06 00:50:43 INFO  UserStory3:62 - ## Fail | testSetUp ##apiTest.UserStory3
+2022-07-06 00:50:43 INFO  TestBase:166 - ## Start | quitDriver() ## apiTest.UserStory3
+2022-07-06 00:56:07 INFO  UserStory3:53 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-06 00:56:07 INFO  TestBase:149 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-06 00:56:10 INFO  UserStory3:62 - ## Fail | testSetUp ##apiTest.UserStory3
+2022-07-06 00:56:10 INFO  TestBase:166 - ## Start | quitDriver() ## apiTest.UserStory3
+2022-07-06 01:03:39 INFO  UserStory3:53 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-06 01:03:39 INFO  TestBase:133 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-06 01:04:08 INFO  TaxDispensepage:22 - ## Start | clickAddPearsonClipLink ##pageObject.TaxDispensepage
+2022-07-06 01:04:13 INFO  TaxDispensepage:25 - ## Fail | clickAddPearsonClipLink ##pageObject.TaxDispensepage
+2022-07-06 01:04:18 INFO  UserStory3:62 - ## Fail | testSetUp ##apiTest.UserStory3
+2022-07-06 01:04:18 INFO  TestBase:151 - ## Start | quitDriver() ## apiTest.UserStory3
+2022-07-06 01:05:04 INFO  UserStory3:53 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-06 01:05:04 INFO  TestBase:133 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-06 01:05:27 INFO  UserStory3:53 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-06 01:05:27 INFO  TestBase:133 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-06 01:05:33 INFO  TaxDispensepage:22 - ## Start | clickAddPearsonClipLink ##pageObject.TaxDispensepage
+2022-07-06 01:05:36 INFO  TaxDispensepage:25 - ## Fail | clickAddPearsonClipLink ##pageObject.TaxDispensepage
+2022-07-06 01:05:39 INFO  UserStory3:62 - ## Fail | testSetUp ##apiTest.UserStory3
+2022-07-06 01:05:47 INFO  TestBase:151 - ## Start | quitDriver() ## apiTest.UserStory3
+2022-07-06 01:07:24 INFO  UserStory3:53 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-06 01:07:24 INFO  TestBase:133 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-06 01:07:26 INFO  TaxDispensepage:22 - ## Start | clickAddPearsonClipLink ##pageObject.TaxDispensepage
+2022-07-06 01:07:26 INFO  UserStory3:60 - ## Fail | testSetup ##apiTest.UserStory3
+2022-07-06 01:07:26 INFO  TestBase:151 - ## Start | quitDriver() ## apiTest.UserStory3
+2022-07-06 01:12:04 INFO  UserStory3:46 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-06 01:12:04 INFO  TestBase:133 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-06 01:12:09 INFO  TaxDispensepage:22 - ## Start | clickAddPearsonClipLink ##pageObject.TaxDispensepage
+2022-07-06 01:12:10 INFO  UserStory3:52 - ## Fail | testSetup ##apiTest.UserStory3
+2022-07-06 01:12:10 INFO  TestBase:151 - ## Start | quitDriver() ## apiTest.UserStory3
+2022-07-06 01:14:28 INFO  UserStory3:46 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-06 01:14:28 INFO  TestBase:133 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-06 01:14:30 INFO  UserStory3:54 - ## Fail | testSetup ##apiTest.UserStory3
+2022-07-06 01:14:30 INFO  UserStory3:64 - ## Start | uploadCSVFile ##apiTest.UserStory3
+2022-07-06 01:14:30 INFO  TaxDispensepage:22 - ## Start | clickAddPearsonClipLink ##pageObject.TaxDispensepage
+2022-07-06 01:14:30 INFO  UserStory3:69 - ## Fail | testSetup ##apiTest.UserStory3
+2022-07-06 01:14:30 INFO  TestBase:151 - ## Start | quitDriver() ## apiTest.UserStory3
+2022-07-06 01:14:56 INFO  UserStory3:46 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-06 01:14:56 INFO  TestBase:133 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-06 01:15:01 INFO  UserStory3:54 - ## Fail | testSetup ##apiTest.UserStory3
+2022-07-06 01:15:01 INFO  UserStory3:64 - ## Start | uploadCSVFile ##apiTest.UserStory3
+2022-07-06 01:15:01 INFO  TaxDispensepage:22 - ## Start | clickAddPearsonClipLink ##pageObject.TaxDispensepage
+2022-07-06 01:15:01 INFO  UserStory3:69 - ## Fail | testSetup ##apiTest.UserStory3
+2022-07-06 01:15:01 INFO  TestBase:151 - ## Start | quitDriver() ## apiTest.UserStory3
+2022-07-06 01:16:00 INFO  UserStory3:46 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-06 01:16:00 INFO  TestBase:133 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-06 01:16:05 INFO  UserStory3:54 - ## Fail | testSetup ##apiTest.UserStory3
+2022-07-06 01:16:05 INFO  UserStory3:64 - ## Start | uploadCSVFile ##apiTest.UserStory3
+2022-07-06 01:16:05 INFO  TaxDispensepage:22 - ## Start | clickAddPearsonClipLink ##pageObject.TaxDispensepage
+2022-07-06 01:16:06 INFO  UserStory3:69 - ## Fail | testSetup ##apiTest.UserStory3
+2022-07-06 01:21:38 INFO  UserStory3:46 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-06 01:21:38 INFO  TestBase:133 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-06 01:21:43 INFO  UserStory3:54 - ## Fail | testSetup ##apiTest.UserStory3
+2022-07-06 01:21:43 INFO  UserStory3:64 - ## Start | uploadCSVFile ##apiTest.UserStory3
+2022-07-06 01:21:43 INFO  TaxDispensepage:22 - ## Start | clickAddPearsonClipLink ##pageObject.TaxDispensepage
+2022-07-06 01:21:43 INFO  UserStory3:69 - ## Fail | testSetup ##apiTest.UserStory3
+2022-07-06 01:21:43 INFO  TestBase:151 - ## Start | quitDriver() ## apiTest.UserStory3
+2022-07-06 01:35:44 INFO  UserStory3:46 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-06 01:35:44 INFO  TestBase:133 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-06 01:35:46 INFO  UserStory3:54 - ## Fail | testSetup ##apiTest.UserStory3
+2022-07-06 01:35:46 INFO  UserStory3:64 - ## Start | uploadCSVFile ##apiTest.UserStory3
+2022-07-06 01:35:46 INFO  TaxDispensepage:24 - ## Start | uploadFile ##pageObject.TaxDispensepage
+2022-07-06 01:35:46 INFO  TaxDispensepage:34 - ## Start | clickTaxReliefButton ##pageObject.TaxDispensepage
+2022-07-06 01:35:46 INFO  UserStory3:70 - ## Fail | testSetup ##apiTest.UserStory3
+2022-07-06 01:35:49 INFO  TestBase:151 - ## Start | quitDriver() ## apiTest.UserStory3
+2022-07-06 12:38:34 INFO  UserStory4:21 - viewTaxReliefDetails was Successful
+2022-07-06 12:38:35 INFO  TestBase:151 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-06 12:43:30 INFO  UserStory4:23 - viewTaxReliefDetails was Successful
+2022-07-06 12:43:32 INFO  TestBase:151 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-06 12:47:02 INFO  UserStory4:23 - viewTaxReliefDetails was Successful
+2022-07-06 12:47:04 INFO  TestBase:151 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-06 12:50:42 INFO  TestBase:151 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-06 12:51:20 INFO  UserStory4:26 - viewTaxReliefDetails was Successful
+2022-07-06 12:51:22 INFO  TestBase:151 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-06 14:28:03 INFO  UserStory3:31 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-06 14:28:03 INFO  TestBase:143 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-06 14:28:07 INFO  UserStory3:34 - ## Fail | testSetup ##apiTest.UserStory3
+2022-07-06 14:28:07 INFO  UserStory3:44 - ## Start | uploadCSVFile ##apiTest.UserStory3
+2022-07-06 14:28:07 INFO  TaxDispensepage:24 - ## Start | uploadFile ##pageObject.TaxDispensepage
+2022-07-06 14:28:08 INFO  TaxDispensepage:34 - ## Start | clickTaxReliefButton ##pageObject.TaxDispensepage
+2022-07-06 14:28:08 INFO  UserStory3:50 - ## Fail | testSetup ##apiTest.UserStory3
+2022-07-06 14:28:10 INFO  TestBase:161 - ## Start | quitDriver() ## apiTest.UserStory3
+2022-07-06 15:21:46 INFO  UserStory4:38 - singleUserRecordCreationRequest was Successful
+2022-07-06 15:21:46 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-06 15:22:57 INFO  UserStory4:39 - singleUserRecordCreationRequest was Successful
+2022-07-06 15:22:59 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-06 16:13:36 INFO  APIServicesBase:78 - {"birthday":"04041982","gender":"M","natid":"0001","name":"testUser1","tax":"25","salary":"2500"}
+2022-07-06 16:13:36 INFO  APIServicesBase:79 - correlation-id:null
+2022-07-06 16:13:37 INFO  UserStory1and2:33 - singleUserRecordCreationRequest was Successful
+2022-07-06 16:13:37 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory1and2
+2022-07-06 16:21:06 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-06 16:22:02 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-06 16:24:24 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-06 16:25:04 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-06 16:32:44 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-06 16:33:26 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-06 16:34:58 INFO  UserStory4:56 - singleUserRecordCreationRequest was Successful
+2022-07-06 16:34:59 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-06 22:33:23 INFO  UserStory4:56 - singleUserRecordCreationRequest was Successful
+2022-07-06 22:33:23 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-06 22:38:37 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-06 22:40:09 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-06 22:40:55 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-06 22:44:32 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-06 22:46:35 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-06 22:47:22 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-06 22:48:11 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-06 22:54:39 INFO  UserStory4:56 - singleUserRecordCreationRequest was Successful
+2022-07-06 22:54:42 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-06 22:55:31 INFO  UserStory4:56 - singleUserRecordCreationRequest was Successful
+2022-07-06 22:55:31 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-06 22:58:48 INFO  UserStory4:54 - singleUserRecordCreationRequest was Successful
+2022-07-06 22:58:49 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-06 22:58:51 INFO  UserStory4:54 - singleUserRecordCreationRequest was Successful
+2022-07-06 22:58:52 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-06 23:33:57 INFO  UserStory4:75 - singleUserRecordCreationRequest was Successful
+2022-07-06 23:33:57 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-06 23:35:51 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-06 23:43:09 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-06 23:51:42 INFO  UserStory4:74 - singleUserRecordCreationRequest was Successful
+2022-07-06 23:51:42 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-06 23:52:33 INFO  UserStory4:74 - singleUserRecordCreationRequest was Successful
+2022-07-06 23:52:36 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-07 07:10:51 INFO  APIServicesBase:479 - correlation-id:null
+2022-07-07 07:10:52 INFO  UserStory1and2:46 - singleUserRecordCreationRequest was Successful
+2022-07-07 07:10:52 INFO  APIServicesBase:78 - {"birthday":"04041982","gender":"M","natid":"0001","name":"testUser1","tax":"25","salary":"2500"}
+2022-07-07 07:10:52 INFO  APIServicesBase:79 - correlation-id:null
+2022-07-07 07:10:52 INFO  UserStory1and2:33 - singleUserRecordCreationRequest was Successful
+2022-07-07 07:10:52 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory1and2
+2022-07-07 07:12:19 INFO  UserStory3:31 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-07 07:12:19 INFO  TestBase:142 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-07 07:12:24 INFO  UserStory3:34 - ## Fail | testSetup ##apiTest.UserStory3
+2022-07-07 07:12:24 INFO  UserStory3:44 - ## Start | uploadCSVFile ##apiTest.UserStory3
+2022-07-07 07:12:24 INFO  UserStory3:51 - ## Fail | uploadCSVFile ##apiTest.UserStory3
+2022-07-07 07:12:24 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory3
+2022-07-07 07:12:50 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-07 07:13:56 INFO  UserStory4:56 - singleUserRecordCreationRequest was Successful
+2022-07-07 07:13:56 INFO  UserStory4:56 - singleUserRecordCreationRequest was Successful
+2022-07-07 07:13:56 INFO  UserStory4:75 - singleUserRecordCreationRequest was Successful
+2022-07-07 07:13:56 INFO  UserStory4:75 - singleUserRecordCreationRequest was Successful
+2022-07-07 07:13:56 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-07 07:13:56 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-07 07:15:32 INFO  APIServicesBase:78 - {"birthday":"04041982","gender":"M","natid":"0001","name":"testUser1","tax":"25","salary":"2500"}
+2022-07-07 07:15:32 INFO  APIServicesBase:79 - correlation-id:null
+2022-07-07 07:15:33 INFO  UserStory1and2:33 - singleUserRecordCreationRequest was Successful
+2022-07-07 07:15:33 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory1and2
+2022-07-07 07:15:44 INFO  APIServicesBase:479 - correlation-id:null
+2022-07-07 07:15:45 INFO  UserStory1and2:46 - singleUserRecordCreationRequest was Successful
+2022-07-07 07:15:45 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory1and2
+2022-07-07 07:16:01 INFO  UserStory3:31 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-07 07:16:01 INFO  TestBase:142 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-07 07:16:04 INFO  UserStory3:34 - ## Fail | testSetup ##apiTest.UserStory3
+2022-07-07 07:16:04 INFO  UserStory3:44 - ## Start | uploadCSVFile ##apiTest.UserStory3
+2022-07-07 07:16:04 INFO  TaxDispensepage:24 - ## Start | uploadFile ##pageObject.TaxDispensepage
+2022-07-07 07:16:04 INFO  TaxDispensepage:34 - ## Start | clickTaxReliefButton ##pageObject.TaxDispensepage
+2022-07-07 07:16:04 INFO  UserStory3:49 - ## Fail | testSetup ##apiTest.UserStory3
+2022-07-07 07:16:08 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory3
+2022-07-07 07:40:31 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-07 07:40:31 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-07 07:40:31 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-07 07:45:00 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-07 07:45:27 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-07 07:46:23 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-07 07:48:53 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-07 07:51:11 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-07 07:53:45 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-07 07:55:21 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-07 07:57:41 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-07 07:58:23 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-07 07:59:52 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-07 08:00:42 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-07 08:02:08 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-07 08:05:11 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-07 09:41:04 INFO  UserStory4:67 - verifyTaxCalculation was Successful
+2022-07-07 09:41:04 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-07 10:20:58 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-07 10:21:59 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-07 10:23:36 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory4
+2022-07-07 12:21:21 INFO  UserStory5:32 - ## Start | testSetUp ##apiTest.UserStory5
+2022-07-07 12:21:21 INFO  UserStory5:38 - ## Fail | testSetUp ##apiTest.UserStory5
+2022-07-07 12:21:42 INFO  UserStory3:31 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-07 12:21:42 INFO  UserStory3:37 - ## Fail | testSetUp ##apiTest.UserStory3
+2022-07-07 12:23:33 INFO  UserStory5:32 - ## Start | testSetUp ##apiTest.UserStory5
+2022-07-07 12:23:33 INFO  TestBase:142 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory5
+2022-07-07 12:23:36 INFO  UserStory5:38 - ## Fail | testSetUp ##apiTest.UserStory5
+2022-07-07 12:24:45 INFO  UserStory5:32 - ## Start | testSetUp ##apiTest.UserStory5
+2022-07-07 12:24:45 INFO  TestBase:142 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory5
+2022-07-07 12:24:47 INFO  UserStory5:38 - ## Fail | testSetUp ##apiTest.UserStory5
+2022-07-07 12:25:06 INFO  UserStory5:32 - ## Start | testSetUp ##apiTest.UserStory5
+2022-07-07 12:25:06 INFO  TestBase:142 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory5
+2022-07-07 12:25:09 INFO  UserStory5:38 - ## Fail | testSetUp ##apiTest.UserStory5
+2022-07-07 12:25:29 INFO  UserStory5:32 - ## Start | testSetUp ##apiTest.UserStory5
+2022-07-07 12:25:29 INFO  TestBase:142 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory5
+2022-07-07 12:25:32 INFO  UserStory5:38 - ## Fail | testSetUp ##apiTest.UserStory5
+2022-07-07 12:27:33 INFO  UserStory5:32 - ## Start | testSetUp ##apiTest.UserStory5
+2022-07-07 12:27:33 INFO  TestBase:142 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory5
+2022-07-07 12:27:35 INFO  UserStory5:38 - ## Fail | testSetUp ##apiTest.UserStory5
+2022-07-07 12:32:16 INFO  UserStory3:31 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-07 12:32:16 INFO  TestBase:142 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-07 12:32:19 INFO  UserStory3:37 - ## Fail | testSetUp ##apiTest.UserStory3
+2022-07-07 12:33:14 INFO  UserStory3:31 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-07 12:33:14 INFO  TestBase:142 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-07 12:33:16 INFO  UserStory3:34 - ## Fail | testSetup ##apiTest.UserStory3
+2022-07-07 12:33:16 INFO  UserStory3:44 - ## Start | uploadCSVFile ##apiTest.UserStory3
+2022-07-07 12:33:17 INFO  UserStory3:49 - ## Fail | uploadCSVFile ##apiTest.UserStory3
+2022-07-07 12:33:17 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory3
+2022-07-07 12:34:23 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory3
+2022-07-07 12:34:54 INFO  UserStory3:32 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-07 12:34:54 INFO  TestBase:142 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-07 12:34:56 INFO  UserStory3:35 - ## Fail | testSetup ##apiTest.UserStory3
+2022-07-07 12:34:56 INFO  UserStory3:32 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-07 12:34:56 INFO  TestBase:142 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-07 12:34:59 INFO  UserStory3:35 - ## Fail | testSetup ##apiTest.UserStory3
+2022-07-07 12:34:59 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory3
+2022-07-07 12:35:19 INFO  UserStory3:32 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-07 12:35:19 INFO  TestBase:142 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-07 12:35:22 INFO  UserStory3:35 - ## Fail | testSetup ##apiTest.UserStory3
+2022-07-07 12:35:22 INFO  UserStory3:32 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-07 12:35:22 INFO  TestBase:142 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-07 12:35:24 INFO  UserStory3:35 - ## Fail | testSetup ##apiTest.UserStory3
+2022-07-07 12:35:24 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory3
+2022-07-07 12:37:36 INFO  UserStory3:32 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-07 12:37:36 INFO  TestBase:142 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-07 12:37:38 INFO  UserStory3:35 - ## Fail | testSetup ##apiTest.UserStory3
+2022-07-07 12:37:38 INFO  UserStory3:45 - ## Start | uploadCSVFile ##apiTest.UserStory3
+2022-07-07 12:37:38 INFO  TaxDispensepage:26 - ## Start | uploadFile ##pageObject.TaxDispensepage
+2022-07-07 12:37:38 INFO  UserStory3:48 - ## Fail | testSetup ##apiTest.UserStory3
+2022-07-07 12:37:39 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory3
+2022-07-07 12:38:55 INFO  UserStory3:32 - ## Start | testSetUp ##apiTest.UserStory3
+2022-07-07 12:38:55 INFO  TestBase:142 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory3
+2022-07-07 12:38:57 INFO  UserStory3:35 - ## Fail | testSetup ##apiTest.UserStory3
+2022-07-07 12:38:57 INFO  UserStory3:45 - ## Start | uploadCSVFile ##apiTest.UserStory3
+2022-07-07 12:38:57 INFO  TaxDispensepage:26 - ## Start | uploadFile ##pageObject.TaxDispensepage
+2022-07-07 12:38:57 INFO  UserStory3:48 - ## Fail | testSetup ##apiTest.UserStory3
+2022-07-07 12:38:58 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory3
+2022-07-07 12:40:18 INFO  UserStory5:32 - ## Start | testSetUp ##apiTest.UserStory5
+2022-07-07 12:40:18 INFO  TestBase:142 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory5
+2022-07-07 12:40:21 INFO  UserStory5:34 - ## Fail | testSetup ##apiTest.UserStory5
+2022-07-07 12:40:21 INFO  UserStory5:44 - ## Start | verifyCashDispensed ##apiTest.UserStory5
+2022-07-07 12:40:21 INFO  TaxDispensepage:34 - ## Start | uploadFile ##pageObject.TaxDispensepage
+2022-07-07 12:40:21 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory5
+2022-07-07 12:41:00 INFO  UserStory5:32 - ## Start | testSetUp ##apiTest.UserStory5
+2022-07-07 12:41:00 INFO  TestBase:142 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory5
+2022-07-07 12:41:02 INFO  UserStory5:34 - ## Fail | testSetup ##apiTest.UserStory5
+2022-07-07 12:41:02 INFO  UserStory5:44 - ## Start | verifyCashDispensed ##apiTest.UserStory5
+2022-07-07 12:41:02 INFO  TaxDispensepage:34 - ## Start | uploadFile ##pageObject.TaxDispensepage
+2022-07-07 12:41:02 INFO  TaxDispensepage:43 - ## Start | uploadFile ##pageObject.TaxDispensepage
+2022-07-07 12:41:02 INFO  TaxDispensepage:52 - ## Start | clickTaxReliefButton ##pageObject.TaxDispensepage
+2022-07-07 12:41:03 INFO  UserStory5:49 - ## Fail | testSetup ##apiTest.UserStory5
+2022-07-07 12:41:03 INFO  UserStory5:58 - ## Start | verifyCashDispensed ##apiTest.UserStory5
+2022-07-07 12:41:03 INFO  cashDispensedPage:24 - ## Start | isCashDispensedTxtDisplayed ##pageObject.cashDispensedPage
+2022-07-07 12:41:03 INFO  UserStory5:61 - ## Fail | testSetup ##apiTest.UserStory5
+2022-07-07 12:41:03 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory5
+2022-07-07 14:22:09 INFO  UserStory5:32 - ## Start | testSetUp ##apiTest.UserStory5
+2022-07-07 14:22:09 INFO  TestBase:142 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory5
+2022-07-07 14:22:12 INFO  UserStory5:34 - ## Fail | testSetup ##apiTest.UserStory5
+2022-07-07 14:22:12 INFO  UserStory5:45 - ## Start | verifyDispalyingOfCashdispenseButton ##apiTest.UserStory5
+2022-07-07 14:22:12 INFO  TaxDispensepage:34 - ## Start | uploadFile ##pageObject.TaxDispensepage
+2022-07-07 14:22:12 INFO  TaxDispensepage:43 - ## Start | uploadFile ##pageObject.TaxDispensepage
+2022-07-07 14:22:12 INFO  TaxDispensepage:52 - ## Start | clickTaxReliefButton ##pageObject.TaxDispensepage
+2022-07-07 14:22:12 INFO  UserStory5:50 - ## Fail | testSetup ##apiTest.UserStory5
+2022-07-07 14:22:12 INFO  UserStory5:60 - ## Start | verifyBehaviourOfCashdispenseButton ##apiTest.UserStory5
+2022-07-07 14:22:12 INFO  TaxDispensepage:52 - ## Start | clickTaxReliefButton ##pageObject.TaxDispensepage
+2022-07-07 14:22:12 INFO  TaxDispensepage:55 - ## Fail | clickTaxReliefButton ##pageObject.TaxDispensepage
+2022-07-07 14:22:12 INFO  UserStory5:64 - ## Fail | verifyBehaviourOfCashdispenseButton ##apiTest.UserStory5
+2022-07-07 14:22:12 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory5
+2022-07-07 14:23:25 INFO  UserStory5:32 - ## Start | testSetUp ##apiTest.UserStory5
+2022-07-07 14:23:25 INFO  TestBase:142 - ## Start | launchBrowserAndNavigate() ## apiTest.UserStory5
+2022-07-07 14:23:27 INFO  UserStory5:34 - ## Fail | testSetup ##apiTest.UserStory5
+2022-07-07 14:23:28 INFO  UserStory5:45 - ## Start | verifyDispalyingOfCashdispenseButton ##apiTest.UserStory5
+2022-07-07 14:23:28 INFO  TaxDispensepage:34 - ## Start | uploadFile ##pageObject.TaxDispensepage
+2022-07-07 14:23:28 INFO  TaxDispensepage:43 - ## Start | uploadFile ##pageObject.TaxDispensepage
+2022-07-07 14:23:28 INFO  UserStory5:50 - ## Fail | testSetup ##apiTest.UserStory5
+2022-07-07 14:23:28 INFO  UserStory5:60 - ## Start | verifyBehaviourOfCashdispenseButton ##apiTest.UserStory5
+2022-07-07 14:23:28 INFO  TaxDispensepage:52 - ## Start | clickTaxReliefButton ##pageObject.TaxDispensepage
+2022-07-07 14:23:28 INFO  UserStory5:62 - ## Fail | testSetup ##apiTest.UserStory5
+2022-07-07 14:23:28 INFO  UserStory5:72 - ## Start | verifyCashDispenseTextDisplayAfterrDispensed ##apiTest.UserStory5
+2022-07-07 14:23:28 INFO  cashDispensedPage:24 - ## Start | isCashDispensedTxtDisplayed ##pageObject.cashDispensedPage
+2022-07-07 14:23:28 INFO  UserStory5:75 - ## Fail | testSetup ##apiTest.UserStory5
+2022-07-07 14:23:28 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory5
+2022-07-07 15:04:54 INFO  APIServicesBase:479 - correlation-id:null
+2022-07-07 15:04:55 INFO  UserStory2:35 - AddMultipleUserRecordWithAllValidDetails was Successful
+2022-07-07 15:04:55 INFO  APIServicesBase:479 - correlation-id:null
+2022-07-07 15:04:55 INFO  APIServicesBase:479 - correlation-id:null
+2022-07-07 15:04:55 INFO  TestBase:160 - ## Start | quitDriver() ## apiTest.UserStory2

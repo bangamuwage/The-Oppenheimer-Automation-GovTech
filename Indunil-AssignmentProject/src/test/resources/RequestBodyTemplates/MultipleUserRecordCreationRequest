@@ -1,0 +1,241 @@
+[{
+  "birthday": "08042005",
+  "gender": "M",
+  "name": "testUser1",
+  "natid": "U1_001",
+  "salary": "2500",
+  "tax": "180"
+},
+{
+  "birthday": "06022004",
+  "gender": "M",
+  "name": "testUser2",
+  "natid": "U2_002",
+  "salary": "2000",
+  "tax": "35"
+},
+{
+  "birthday": "03092003",
+  "gender": "M",
+  "name": "testUser3",
+  "natid": "U3_003",
+  "salary": "2000",
+  "tax": "260"
+},
+{
+  "birthday": "04081988",
+  "gender": "M",
+  "name": "testUser4",
+  "natid": "U4_004",
+  "salary": "3000",
+  "tax": "35"
+},
+{
+  "birthday": "06061987",
+  "gender": "M",
+  "name": "testUser5",
+  "natid": "U5_005",
+  "salary": "3500",
+  "tax": "30"
+},
+{
+  "birthday": "02051986",
+  "gender": "M",
+  "name": "testUser6",
+  "natid": "U6_006",
+  "salary": "2700",
+  "tax": "230"
+},
+{
+  "birthday": "02051973",
+  "gender": "M",
+  "name": "testUser7",
+  "natid": "U7_007",
+  "salary": "2700",
+  "tax": "40"
+},
+{
+  "birthday": "06031972",
+  "gender": "M",
+  "name": "testUser8",
+  "natid": "U8_008",
+  "salary": "2700",
+  "tax": "130"
+},
+{
+  "birthday": "06021971",
+  "gender": "M",
+  "name": "testUser9",
+  "natid": "U9_009",
+  "salary": "2700",
+  "tax": "40"
+},
+{
+  "birthday": "01041948",
+  "gender": "M",
+  "name": "testUser10",
+  "natid": "U10_010",
+  "salary": "2700",
+  "tax": "40"
+},
+{
+  "birthday": "04061947",
+  "gender": "M",
+  "name": "testUser11",
+  "natid": "U11_011",
+  "salary": "2700",
+  "tax": "40"
+},
+{
+  "birthday": "08021946",
+  "gender": "M",
+  "name": "testUser12",
+  "natid": "U12_012",
+  "salary": "2700",
+  "tax": "40"
+},
+{
+  "birthday": "04052005",
+  "gender": "F",
+  "name": "testUser13",
+  "natid": "U13_013",
+  "salary": "2500",
+  "tax": "180"
+},
+{
+  "birthday": "03082004",
+  "gender": "F",
+  "name": "testUser14",
+  "natid": "U14_014",
+  "salary": "1500",
+  "tax": "200"
+},
+{
+  "birthday": "03042003",
+  "gender": "F",
+  "name": "testUser15",
+  "natid": "U15_015",
+  "salary": "1800",
+  "tax": "200"
+},
+{
+  "birthday": "07041988",
+  "gender": "F",
+  "name": "testUser16",
+  "natid": "U16_016",
+  "salary": "2500",
+  "tax": "35"
+},
+{
+  "birthday": "02051987",
+  "gender": "F",
+  "name": "testUser17",
+  "natid": "U17_017",
+  "salary": "3500",
+  "tax": "30"
+},
+{
+  "birthday": "09021986",
+  "gender": "F",
+  "name": "testUser18",
+  "natid": "U18_018",
+  "salary": "2700",
+  "tax": "10"
+},
+{
+  "birthday": "04051973",
+  "gender": "F",
+  "name": "testUser19",
+  "natid": "U19_019",
+  "salary": "3450",
+  "tax": "40"
+},
+{
+  "birthday": "02081972",
+  "gender": "F",
+  "name": "testUser20",
+  "natid": "U20_020",
+  "salary": "4000",
+  "tax": "20"
+},
+{
+  "birthday": "04051971",
+  "gender": "F",
+  "name": "testUser21",
+  "natid": "U21_021",
+  "salary": "4500",
+  "tax": "30"
+},
+{
+  "birthday": "04051948",
+  "gender": "F",
+  "name": "testUser22",
+  "natid": "U22_022",
+  "salary": "2700",
+  "tax": "50"
+},
+{
+  "birthday": "25091947",
+  "gender": "F",
+  "name": "testUser23",
+  "natid": "U23_023",
+  "salary": "6000",
+  "tax": "60"
+},
+{
+  "birthday": "06101946",
+  "gender": "F",
+  "name": "testUser24",
+  "natid": "U24_024",
+  "salary": "5500",
+  "tax": "40"
+},
+{
+  "birthday": "09022004",
+  "gender": "M",
+  "name": "testUser25",
+  "natid": "U25_025",
+  "salary": "1000.56",
+  "tax": "20"
+},
+{
+  "birthday": "09022004",
+  "gender": "M",
+  "name": "testUser26",
+  "natid": "U26_026",
+  "salary": "110.00",
+  "tax": "59"
+},
+{
+  "birthday": "09022004",
+  "gender": "M",
+  "name": "testUser27",
+  "natid": "U27_027",
+  "salary": "110.00",
+  "tax": "60"
+},
+{
+  "birthday": "09022004",
+  "gender": "M",
+  "name": "testUser28",
+  "natid": "U28_028",
+  "salary": "110.00",
+  "tax": "61"
+},
+{
+  "birthday": "09022004",
+  "gender": "M",
+  "name": "testUser29",
+  "natid": "U29_029",
+  "salary": "2000.00",
+  "tax": "35.356"
+},
+{
+  "birthday": "09022004",
+  "gender": "M",
+  "name": "testUser30",
+  "natid": "U30_030",
+  "salary": "1000.00",
+  "tax": "20.658"
+}
+]

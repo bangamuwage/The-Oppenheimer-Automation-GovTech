@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="userStory1 Tests" verbose="1" parallel="false">
+	 <test name="userStory1 Tests">
+		<classes>
+			<class
+				name="apiTest.UserStory5"></class>
+		</classes>
+	</test>
+</suite>
